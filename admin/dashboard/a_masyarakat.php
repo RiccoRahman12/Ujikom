@@ -52,7 +52,7 @@
                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                   <form method="post" action="?p=data_masyarakat">
                   <div class="input-group">
-                    <input type="text" class="border-0 bg-light inpt" name="keyword" placeholder="cari masyarakat..." autofocus>
+                    <input type="text" class="border-0 bg-light inpt" name="keyword" placeholder="cari..." autofocus>
                     <div class="input-group-append">
                       <button class="btn btn-light" type="submit" name="cari">
                         <i class="fas fa-search fa-sm"></i>
